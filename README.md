@@ -126,7 +126,7 @@ Relationships were established using:
 ```text
 Food-Delivery-Business-Analytics/
 │
-├── Dashboard.pbix
+├── End-to-End-Business-Analytics-Dashboard.pbix
 ├── Dataset.xlsx
 ├── README.md
 └── LICENSE
